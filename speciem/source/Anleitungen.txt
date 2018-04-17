@@ -1,0 +1,111 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: speciem__180225.indd
+
+PACKDATUM: 17.04.18 15:07
+Erstellungsdatum 17.04.18
+Änderungsdatum: 17.04.18
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: 
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte: Ohne
+
+SCHRIFTARTEN
+10 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: MinionPro-Regular; Typ: OpenType Type 1, Status: OK
+- Name: Repro-0.2; Typ: OpenType Type 1, Status: OK
+- Name: Repro-0.5; Typ: OpenType Type 1, Status: OK
+- Name: Repro-100; Typ: OpenType Type 1, Status: OK
+- Name: Repro-200; Typ: OpenType Type 1, Status: OK
+- Name: Repro-300; Typ: OpenType Type 1, Status: OK
+- Name: Repro-400; Typ: OpenType Type 1, Status: OK
+- Name: Repro-500; Typ: OpenType Type 1, Status: OK
+- Name: Repro-600; Typ: OpenType Type 1, Status: OK
+- Name: Repro-null; Typ: OpenType Type 1, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 0,000; Linien/Zoll: 0,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 8 Verknüpfung(en) gefunden; 0 geändert, 8 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 0 verwenden RGB-Farbraum
+
+- Name: Raster.ai; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+- Name: Raster.ai; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+- Name: Raster.ai; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+- Name: Raster.ai; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+- Name: Raster.ai; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+- Name: Raster.ai; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+- Name: Raster.ai; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+- Name: Raster.ai; Typ: Adobe Portable Document Format (PDF); Status: fehlend
+
+DRUCKEINSTELLUNGEN
+PPD: n. zutr., (OfficeJet 4650 series)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Schnitt
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-RGB
+Überfüllungsmodus: Ohne
+Bilddaten senden: Alle
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 180 mm x 250 mm
+Papierabmessungen: 209,903 mm x 297,039 mm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. speciem__180225.indd; Typ: Adobe InDesign-Satzdatei; Größe: 4960K
+2. speciem__180225.idml; Typ: InDesign Markup-Dokument; Größe: 577K
+3. speciem__180225.pdf; Typ: Adobe Acrobat-Dokument; Größe: 587K
+4. MinionPro-Regular.otf; Typ: Schriftartendatei; Größe: 212K
+5. Repro-0.2.otf; Typ: Schriftartendatei; Größe: 109K
+6. Repro-0.5.otf; Typ: Schriftartendatei; Größe: 38K
+7. Repro-100.otf; Typ: Schriftartendatei; Größe: 56K
+8. Repro-200.otf; Typ: Schriftartendatei; Größe: 39K
+9. Repro-300.otf; Typ: Schriftartendatei; Größe: 35K
+10. Repro-400.otf; Typ: Schriftartendatei; Größe: 36K
+11. Repro-500.otf; Typ: Schriftartendatei; Größe: 23K
+12. Repro-600.otf; Typ: Schriftartendatei; Größe: 23K
+13. Repro-null.otf; Typ: Schriftartendatei; Größe: 27K

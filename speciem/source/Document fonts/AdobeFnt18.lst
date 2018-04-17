@@ -1,0 +1,253 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Repro-300
+FamilyName:Repro
+StyleName:300
+MenuName:Repro 300
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Repro 300
+WritingScript:Roman
+OutlineFileName:\Repro-300.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:36388
+FileModTime:1519903734
+NameArray:0,Mac,4,Repro 300
+NameArray:0,Win,1,Repro 300
+NameArray:0,Win,16,Repro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Repro-0.5
+FamilyName:Repro
+StyleName:0.5
+MenuName:Repro 0.5
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Repro 0.5
+WritingScript:Roman
+OutlineFileName:\Repro-0.5.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:39672
+FileModTime:1398746628
+NameArray:0,Mac,4,Repro 0.5
+NameArray:0,Win,1,Repro 0.5
+NameArray:0,Win,16,Repro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Repro-null
+FamilyName:Repro
+StyleName:null
+MenuName:Repro null
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Repro null
+WritingScript:Roman
+OutlineFileName:\Repro-null.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:28008
+FileModTime:1519903623
+NameArray:0,Mac,4,Repro null
+NameArray:0,Win,1,Repro null
+NameArray:0,Win,16,Repro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Repro-100
+FamilyName:Repro
+StyleName:100
+MenuName:Repro 100
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Repro 100
+WritingScript:Roman
+OutlineFileName:\Repro-100.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:57488
+FileModTime:1519903769
+NameArray:0,Mac,4,Repro 100
+NameArray:0,Win,1,Repro 100
+NameArray:0,Win,16,Repro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Repro-0.2
+FamilyName:Repro
+StyleName:0.2
+MenuName:Repro 0.2
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Repro 0.2
+WritingScript:Roman
+OutlineFileName:\Repro-0.2.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:112344
+FileModTime:1398746770
+NameArray:0,Mac,4,Repro 0.2
+NameArray:0,Win,1,Repro 0.2
+NameArray:0,Win,16,Repro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Repro-500
+FamilyName:Repro
+StyleName:500
+MenuName:Repro 500
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Repro 500
+WritingScript:Roman
+OutlineFileName:\Repro-500.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:24296
+FileModTime:1519903685
+NameArray:0,Mac,4,Repro 500
+NameArray:0,Win,1,Repro 500
+NameArray:0,Win,16,Repro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Repro-200
+FamilyName:Repro
+StyleName:200
+MenuName:Repro 200
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Repro 200
+WritingScript:Roman
+OutlineFileName:\Repro-200.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:40176
+FileModTime:1519903754
+NameArray:0,Mac,4,Repro 200
+NameArray:0,Win,1,Repro 200
+NameArray:0,Win,16,Repro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Repro-600
+FamilyName:Repro
+StyleName:600
+MenuName:Repro 600
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Repro 600
+WritingScript:Roman
+OutlineFileName:\Repro-600.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:24300
+FileModTime:1519903651
+NameArray:0,Mac,4,Repro 600
+NameArray:0,Win,1,Repro 600
+NameArray:0,Win,16,Repro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Repro-400
+FamilyName:Repro
+StyleName:400
+MenuName:Repro 400
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Repro 400
+WritingScript:Roman
+OutlineFileName:\Repro-400.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:37796
+FileModTime:1519903709
+NameArray:0,Mac,4,Repro 400
+NameArray:0,Win,1,Repro 400
+NameArray:0,Win,16,Repro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:217280
+FileModTime:1409303162
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
